@@ -24,6 +24,8 @@
 4. Install required dependencies (if not already installed):
    ```bash
    pip install pandas
+   pip install lxml
+   pip install tabulate
    ```
 5. Run the program:
    ```bash
